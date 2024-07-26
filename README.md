@@ -1,4 +1,4 @@
-👋 Hi, I’m Nirmal Israel (@bsoft-nirmal)
+👋 Hi, I’m Nirmal Israel 
 
 👀 I’m interested in software development, with a primary focus on backend technologies and system architecture. I am also skilled in UI/UX design, where I leverage modern web technologies to enhance user experience and create intuitive interfaces.
 
